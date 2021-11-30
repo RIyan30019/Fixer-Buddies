@@ -20,5 +20,4 @@ Fixer Buddies [Live-Website](https://fixer-buddies.web.app/)
  * Express.js
  * Mongo DB
 
- [Back-End-Repo](https://github.com/Ashraful-Mijan/Fixer-Buddies-server)
 
