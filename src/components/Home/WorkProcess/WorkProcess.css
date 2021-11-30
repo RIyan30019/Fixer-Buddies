@@ -1,0 +1,5 @@
+.work {
+    background-image: url('../../../img/technician-clearing.jpg'), linear-gradient(rgba(2, 0, 1, 0.897), rgba(3, 3, 3, 0.924));
+    background-repeat: no-repeat;
+    background-size: cover;
+}

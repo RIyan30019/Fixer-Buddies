@@ -1,0 +1,5 @@
+.testimonials {
+    background-image: linear-gradient( rgba(17,17,17,0.9), rgba(17,17,17,0.9) ), url('../../../img/abstract-blue.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

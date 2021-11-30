@@ -1,0 +1,10 @@
+.bg-headerMain {
+    /* background-image: linear-gradient(rgba(20, 24, 17, 0.698), black); */
+    background: linear-gradient( rgba(17,17,17,0.9), rgba(17,17,17,0.9) ), url('../../../img/modern-prodigy.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
+}

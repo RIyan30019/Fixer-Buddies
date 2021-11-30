@@ -1,0 +1,12 @@
+.bg-footer {
+    background: linear-gradient( rgba(17,17,17,0.9), rgba(17,17,17,0.9) ), url('../../../img/section_custom_bg.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.border-dotted {
+    border-bottom-style: dotted white;
+}
